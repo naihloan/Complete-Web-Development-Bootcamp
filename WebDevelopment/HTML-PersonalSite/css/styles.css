@@ -9,6 +9,7 @@
         // border-top-style:dotted;
         border-width: thick;
         border-color: gray;
+	margin: 40px auto 40px auto;
       }
       h1{ font-size: 2em; }
       h1, h3{
