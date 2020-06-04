@@ -1,0 +1,17 @@
+
+      body{
+        // background-color:blue;
+        background-color:snow;
+      }
+      hr{
+        width: 7%;
+        border-style: none none dotted;
+        // border-top-style:dotted;
+        border-width: thick;
+        border-color: gray;
+      }
+      h1{ font-size: 2em; }
+      h1, h3{
+        color:#66BFBF;
+        font-variant:small-caps;
+      }
