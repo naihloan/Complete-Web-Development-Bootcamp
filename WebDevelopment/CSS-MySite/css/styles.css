@@ -8,14 +8,19 @@ body{
   background-color: snow;
 }
 
-h1{
+h1, p{
   padding-top: 100px;
 }
 
-h1, h3{
+h1, h3, p{
   margin-top:0;
   margin: 0 auto 0 auto;
   text-align: center;
+}
+
+p {
+    font-size: 1.72rem;
+    font-weight: bold;
 }
 
 img.lightning{
@@ -23,7 +28,7 @@ img.lightning{
   margin: 0 auto 0 auto;
 }
 
-.top-container{
+.main-container{
   background-color: cyan;
 }
 
@@ -33,4 +38,11 @@ img.lightning{
 
 .bottom-container{
   background-color: blue;
+}
+
+.further-container{
+  background-color: cyan;
+  height:980px;
+  white-space: pre-wrap;
+  /* padding: 180px; */
 }
