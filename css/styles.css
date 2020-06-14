@@ -1,0 +1,48 @@
+div{
+  // background-color: cyan;
+  height:400px;
+  padding: 20px;
+}
+body{
+  margin:0;
+  background-color: snow;
+}
+
+h1, p{
+  padding-top: 100px;
+}
+
+h1, h3, p{
+  margin-top:0;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+p {
+    font-size: 1.72rem;
+    font-weight: bold;
+}
+
+img.lightning{
+  display:flex;
+  margin: 0 auto 0 auto;
+}
+
+.main-container{
+  background-color: cyan;
+}
+
+.middle-container{
+  background-color: red;
+}
+
+.bottom-container{
+  background-color: blue;
+}
+
+.further-container{
+  background-color: cyan;
+  height:980px;
+  white-space: pre-wrap;
+  /* padding: 180px; */
+}
